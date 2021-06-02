@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Shortcut recipes inspired by various mods",
+          "icon": {
+               "item": "minecraft:chest"
+          },
+          "show_toast": false,
+          "title": "Shortcuts"
+     },
+     "parent": "tsp:pugsrecipes/pugsrecipes"
+}
